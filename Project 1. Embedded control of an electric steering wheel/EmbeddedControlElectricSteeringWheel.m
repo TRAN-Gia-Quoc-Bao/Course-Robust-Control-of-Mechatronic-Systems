@@ -1,4 +1,4 @@
-%% Embedded control of an electric steering wheel
+%% TP Mechatronics
 
 %% Default commands
 close all;
