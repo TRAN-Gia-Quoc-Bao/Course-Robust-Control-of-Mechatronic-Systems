@@ -2,9 +2,9 @@ function [listK, listG, gamma2] = H_inf_control_designLPV(listSys, E)
 %
 % The function:
 %
-%           K = H_inf_control_design(A,B,E)
+%           K = H_inf_control_designLPV(A,B,E)
 % 
-% uses the "Bounded-Real Lemma" to compute a state feedback 
+% uses the "Bounded-Real Lemma" to compute an LPV state feedback 
 % H-infinity control:
 %
 %   u(k) = -K*x(k) 
@@ -14,9 +14,7 @@ function [listK, listG, gamma2] = H_inf_control_designLPV(listSys, E)
 %   x(k+1) = A*x(k) + B*u(k) + E*w(k) 
 %
 % with w(k) a bounded input disturbance. This function 
-% requieres CVX optimisation toolbox
-%
-% By John J. Martinez, Grenoble-INP, October 2019. 
+% requires CVX optimisation toolbox
 %%
 [n,m]=size(E); % m disturbances
 Q=eye(n);
