@@ -1,9 +1,13 @@
 # Exercises for Robust Control of Mechatronic Systems course
-The exercises for my Robust Control of Mechatronic Systems course were given in two group projects (three students per group).
+The exercises for my Robust Control of Mechatronic Systems course were given in three group projects (three students per group).
 
-The first one is "Embedded control of an electric steering wheel" which was finished. The questions are in French, but the report is in English.
+Contents:
 
-The second one is "Robust lateral control of autonomous vehicles" which is still ongoing. The questions are in English. The codes and report will come soon.
+1. Project 1: Embedded control of an electric steering wheel
+
+2. Project 2: Robust lateral control of autonomous vehicles
+
+3. Project 3: Clutch and anti-roll control (ongoing, codes and report coming soon)
 
 By: Gia Quoc Bao TRAN 
 
