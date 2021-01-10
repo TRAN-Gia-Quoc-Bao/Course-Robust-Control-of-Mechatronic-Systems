@@ -1,2 +1,5 @@
 # Project: Robust lateral control of autonomous vehicles
-This project is still ongoing. I put here the questions in English. The codes and report will come soon.
+
+We built a state-feedback LTI H-inf and then a polytopic LPV controller for the lateral control of an autonomous vehicle.
+
+Both the questions and report are in English.
