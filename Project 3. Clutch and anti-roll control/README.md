@@ -1,5 +1,3 @@
-# Project: Robust lateral control of autonomous vehicles
+# Project: Clutch and anti-roll control
 
-We built a state-feedback LTI H-inf and then a polytopic LPV controller for the lateral control of an autonomous vehicle.
-
-Both the questions and report are in English.
+This is still ongoing. Codes and report will come soon.
