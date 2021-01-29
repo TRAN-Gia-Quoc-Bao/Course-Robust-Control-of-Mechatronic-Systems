@@ -7,7 +7,7 @@ Contents:
 
 2. Project 2: Robust lateral control of autonomous vehicles
 
-3. Project 3: Clutch and anti-roll control (ongoing, codes and report coming soon)
+3. Project 3: Clutch and anti-roll control
 
 By: Gia Quoc Bao TRAN 
 
