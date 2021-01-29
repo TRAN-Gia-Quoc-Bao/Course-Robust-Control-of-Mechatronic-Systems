@@ -1,3 +1,3 @@
 # Project: Clutch and anti-roll control
 
-This is still ongoing. Codes and report will come soon.
+We built an output-feedback H-inf controller with designed templates for the clutch control problem. Then we designed templates for the H-inf anti-roll control of an autonomous vehicle to improve driving comfort.
